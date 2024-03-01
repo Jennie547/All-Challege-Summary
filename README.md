@@ -1,6 +1,6 @@
 <h1 style="color: #1538ff; text-align: center; font-weight: bold; te"> PROGRAMMING CHALLENGES </h1>
 
-<img src="GIFS\I-love-programming.mp4" width="300px" height="300px">
+<img src="GIFS/I-love-programming.mp4" width="300px" height="300px">
 
 <h2 style="color: #6ab6ff"> BASH </h2>
 
